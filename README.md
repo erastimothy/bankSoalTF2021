@@ -7,3 +7,5 @@ Perancangan dan Analisa Algoritma,yaitu :
 - FPB using Euclid algorithm
 
 semua tools disediakan fitur detail, untuk mengetahui algortima atau alur perhitungannya.
+demo : 
+http://soaltf2021.000webhostapp.com/
